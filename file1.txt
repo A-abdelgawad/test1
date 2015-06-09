@@ -1,2 +1,4 @@
 file1
 trying to test git with test1  reprository
+
+file get new test2
